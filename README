@@ -1,0 +1,3 @@
+清除mvn：mvn clean
+编译程序：mvn compile
+运行程序：mvn exec:java -Dexec.mainClass="com.hand.Exam_3_2.ex2"
