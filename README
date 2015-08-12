@@ -1,3 +1,5 @@
 清除mvn：mvn clean
 编译程序：mvn compile
 运行程序：mvn exec:java -Dexec.mainClass="com.hand.exam_3_2.ex2"
+
+说明：由于我的mysql有设置密码，运行要密码改为空！
